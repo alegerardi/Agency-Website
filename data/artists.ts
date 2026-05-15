@@ -47,6 +47,21 @@ export const artists: Artist[] = [
         slug: "no_cortisol_ale_gerardi",
         audioUrl: "/songs/alegerardi/No Cortisol - Ale Gerardi.mp3",
       },
+      {
+        title: "Back On The Boulevard",
+        slug: "back_on_the_boulevard_ale_gerardi",
+        audioUrl: "/songs/alegerardi/Back On The Boulevard (Original Mix).mp3",
+      },
+      {
+        title: "Don't Think About It",
+        slug: "no_cortisol_ale_gerardi",
+        audioUrl: "/songs/alegerardi/Black Loops - Dont Think Bout It.mp3",
+      },
+      {
+        title: "Higher",
+        slug: "no_cortisol_ale_gerardi",
+        audioUrl: "/songs/alegerardi/Black Loops - Higher.mp3",
+      },
     ],
   },
 
